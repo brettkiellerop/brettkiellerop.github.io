@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://brettkiellerop.github.io
+title: Brett Kiellerop
+tagline: rants, raves, and microfiction
+description: My awesome new site
+paginate: 7
